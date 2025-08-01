@@ -1,5 +1,4 @@
 
-```markdown
 # 🎲 variables_aleatoires
 
 Un projet pédagogique et expérimental autour des **variables aléatoires** et des **probabilités**, entièrement simulé à la main en Python à l’aide de la bibliothèque `random`.
